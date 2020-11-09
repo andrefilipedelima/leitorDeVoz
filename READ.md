@@ -1,0 +1,1 @@
+Desenvolvida através da aula no Youtube https://www.youtube.com/watch?v=OY21UokkEYk&list=PLpSJMw6H4PFMOJHMULTxKNOEw7g1cBuyP Video do Roger Melo, iniciando no javascript :)
